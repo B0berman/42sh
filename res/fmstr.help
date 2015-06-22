@@ -1,0 +1,7 @@
+[0;31m--------- Help setfmstr ---------[0m
+[0;31m	#r => red color[0m
+[0;34m	#b => blue color[0m
+[0;32m	#g => green color[0m
+[0;36m	#e => end of color[0m
+[0;36m	#s => space[0m
+[0;36m	#VALUE => Env var of VALUE[0m

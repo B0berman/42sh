@@ -1,0 +1,5 @@
+setfmstr "#g #USER #e @ #b #PWD #e #s $ #s"
+alias ls "ls --color=auto"
+alias ll "ls --color=auto -l"
+alias la "ls --color=auto -a"
+alias lines "find . -name *.c -o -name *.h | xargs wc -l"
